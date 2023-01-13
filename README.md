@@ -79,11 +79,29 @@ Pour l'Utilisation de l'application :
  ### Project 7 : Little Prince ###
 
 The name of the app is a reference to Saint-Exupery's little prince, which is a poetic and philosophical work in the guise of a children's story.
+<br>
+Creation of an image generator by writing a sentence in the language you want, and using the OpenAi API.
+This project will use NodeJs, Express and OpenAi API for the backend, and Html, Css, Vanilla Js for the frontend.
 
+<br>
 
+ ## API d'OpenAi ##
+ 
+ <br>
+ 
  <p align="center">
 <img src= "https://user-images.githubusercontent.com/90606431/212265676-f0da996c-ae2c-4eb5-8ec0-c683b3ef2448.jpg"/>
  </p>
+ 
+ ## Purpose of the application: Draw me ... ## 
+ The purpose of the app is to automatically generate an image following your sentence, such as:
+"a whale with sunglasses and tanning on Mars", I'm sure you'll use your imagination!!!
+And above all, have fun!!!
+
+On the development side, it's a nice way to see how part of the openAi API works (Dall-E-2, Chat-gpt).
+https://beta.openai.com/docs/introduction
+
+<br>
 
 ## Technologies, software, languages, frameworks, plugins used : ##
 
