@@ -85,7 +85,7 @@ This project will use NodeJs, Express and OpenAi API for the backend, and Html, 
 
 <br>
 
- ## API d'OpenAi ##
+ ## OpenAi API ##
  
  <br>
  
