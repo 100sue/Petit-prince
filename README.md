@@ -72,9 +72,15 @@ Pour l'Utilisation de l'application :
 
 
 
+
  ### Project 7 : Little Prince ###
 
 The name of the app is a reference to Saint-Exupery's little prince, which is a poetic and philosophical work in the guise of a children's story.
+
+
+ <p align="center">
+<img src= "https://user-images.githubusercontent.com/90606431/212265676-f0da996c-ae2c-4eb5-8ec0-c683b3ef2448.jpg"/>
+ </p>
 
 ## Technologies, software, languages, frameworks, plugins used : ##
 
@@ -90,5 +96,8 @@ The name of the app is a reference to Saint-Exupery's little prince, which is a 
 
 
  <p align="center">
-<img src= "https://user-images.githubusercontent.com/90606431/212265676-f0da996c-ae2c-4eb5-8ec0-c683b3ef2448.jpg"/>
+<img src= "https://user-images.githubusercontent.com/90606431/212266762-7d2b6047-0a4c-410d-bfd9-12c32453f5c8.jpg"/>
  </p>
+ 
+
+
