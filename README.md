@@ -5,7 +5,7 @@
 
 ## Petit projet pour le fun : Petit Prince App ##
 
- Création d'un génerateur d'image en ecrivant une phrase, et en utilisant l'Api de OpenAi.
+ Création d'un génerateur d'image en ecrivant une phrase dans la langue que vous voulez, et en utilisant l'Api de OpenAi.
 <br>
 
 Ce projet utilisera NodeJs, Express et API OpenAi pour le backend, et Html, Css, Vanilla Js pour le frontend.
