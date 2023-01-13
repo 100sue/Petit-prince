@@ -76,7 +76,7 @@ Pour l'Utilisation de l'application :
 
 
 
- ### Project 7 : Little Prince ###
+ ### Small project for fun : Little Prince ###
 
 The name of the app is a reference to Saint-Exupery's little prince, which is a poetic and philosophical work in the guise of a children's story.
 <br>
