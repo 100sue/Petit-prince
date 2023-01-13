@@ -22,7 +22,7 @@ Ce projet utilisera NodeJs, Express et API OpenAi pour le backend, et Html, Css,
   ## Objectif de l'application : Dessine-moi ... ## 
 
 Le but de l'app est de generer automatiquement une image suivant votre phrase , tel que :
-"une baleine avec des lunettes de soleil et bronzont sur Mars", je suis sur que vous ferez preuve d'imagination !!!
+"une baleine avec des lunettes de soleil et bronzant sur Mars", je suis sur que vous ferez preuve d'imagination !!!
 Et surtout, amusez-vous !!!
 
 Coté développement, c'est une manière sympa de voir comment fonctionne une partie de l'API d'openAi (Dall-E-2, Chat-gpt).
