@@ -43,20 +43,19 @@ https://beta.openai.com/docs/introduction
 
    ### Installation : ###
 
-Veuillez cloner ce dépôt : il vous fournira les deux dossiers nécessaires : backend et frontend.
+Veuillez cloner ce dépôt : il vous fournira les dossiers nécessaires : backend et frontend.
 
 
 
 - Cette application utilise le plugin dotenv pour masquer les données de connexion. 
-- Dans le dossier backend, vous trouverez un fichier ".env__", qui vous donnera accès à la base de données MySQL de groupomania. 
-- Puis remplissez avec les valeurs correctes pour les variables "DB_DATABASE", "DB_USER" et "DB_PASS", dans le ficher ".env__" et changez son nom en ".env".
+- Dans le dossier backend, vous trouverez un fichier ".env.example", qui permettra l'accès à l'Api d'open Ai. 
+- Créer un compte gratuitement sur openai (https://openai.com/), puis créer votre clé API : API_KEY
+- Puis remplissez avec les valeurs correctes pour les variables "PORT", "OPENAI_API_KEY", dans le ficher ".env.example" et changez son nom en ".env".
 
    ### Executer l'application : ###
 
-- Vous aurez besoin de deux fenêtres de terminal : une pour le frontend, une pour le backend. 
-- Sur le terminal backend : exécutez "npm install, puis "npm start". 
+- lancez "npm install pour installer tous les plugins nécessaires, puis "npm run dev". 
 - Le serveur doit fonctionner sur localhost avec le port par défaut 3000. 
-- Puis, sur le terminal frontend : lancez "npm install pour installer tous les plugins nécessaires, puis "npm run dev". 
 - Le frontend de l'application est visible sur http:// localhost: 3000/.
     
     
@@ -66,6 +65,11 @@ Lancez l'application : ouvrez l'application en cliquant sur http://localhost:300
 
 Pour l'Utilisation de l'application : 
 
+- Choisir la taille d'image souhaitée, c'est-à-dire Small (256px256p), Medium (512px512p), Large (1024px1024p).
+- Puis écrivez ce que vous désirez, et validez par enter.
+- Et, votre image est automatiquement génerée !!
+
+- Vous pouvez de nouveau re-génerer une autre image en appuyant sur le bouton "generer".
 
 
 <br>
