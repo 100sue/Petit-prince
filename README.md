@@ -61,7 +61,6 @@ Veuillez cloner ce dépôt : il vous fournira les dossiers nécessaires : backen
     
     ### L'application :  ###
    
-Lancez l'application : ouvrez l'application en cliquant sur http://localhost:3000/
 
 Pour l'Utilisation de l'application : 
 
